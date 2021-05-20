@@ -1,5 +1,4 @@
-//included extention where print classes in alphabetcal order
-
+//App uses undirected graphs to build an exam schedule with no conflicts and the fewest numbr of exam splots (using a greedy algorithm) 
 
 import structure5.*;
 import java.util.Scanner;
